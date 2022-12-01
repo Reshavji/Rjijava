@@ -4,7 +4,8 @@
 // Time Limit: 2 sec
 // Memory Limit: 128000 kB
 // Problem Statement
-// Given an array A of size N. You need to find the root mean square (RMS) of the array i. e you first need to square all values of array and take its mean. Then you need to return the square root of mean. Print the answer with precision upto 6 decimal places.
+// Given an array A of size N. You need to find the root mean square (RMS) of the array i. e you first need to square all values of array and take its mean.
+// Then you need to return the square root of mean. Print the answer with precision upto 6 decimal places.
 // Input
 // First line contains an integer N - the size of array
 // Next line contains N space separated integers - the elements of array.
